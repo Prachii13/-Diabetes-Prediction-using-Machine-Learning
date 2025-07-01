@@ -1,0 +1,5 @@
+diabetes-prediction-ml/
+├── diabetes_prediction.ipynb
+├── diabetes.csv
+├── README.md
+└── requirements.txt
